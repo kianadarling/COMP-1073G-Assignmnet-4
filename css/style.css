@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(132, 159, 228);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#submitButton{
+    color: black;
+    background-color: rgb(0, 255, 174);
+}
+
+h1{
+    color: rgb(51, 7, 92);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
